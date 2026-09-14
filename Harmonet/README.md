@@ -30,5 +30,5 @@ Folder ini diperuntukkan khusus bagi mahasiswa baru yang terdaftar di **Kelompok
 
 ---
 
-### Pengingat Panitia:
+### Pengingat:
 Dilarang membuat file baru di luar folder kelompokmu dan dilarang mengubah file milik teman lain di kelompok ini.
